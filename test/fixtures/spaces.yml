@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  code: MyString
+  classification_id: 1
+  created_on: 2011-03-01 00:19:50
+  deleted_on: 2011-03-01 00:19:50
+
+two:
+  id: 1
+  code: MyString
+  classification_id: 1
+  created_on: 2011-03-01 00:19:50
+  deleted_on: 2011-03-01 00:19:50

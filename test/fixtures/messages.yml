@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  sender_id: 1
+  receiver: 
+  message: MyString
+  created_on: 2011-03-01 00:25:34
+  deleted_on: 2011-03-01 00:25:34
+
+two:
+  id: 1
+  sender_id: 1
+  receiver: 
+  message: MyString
+  created_on: 2011-03-01 00:25:34
+  deleted_on: 2011-03-01 00:25:34

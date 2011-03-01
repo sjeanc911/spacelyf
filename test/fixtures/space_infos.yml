@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  space_id: 1
+  description: MyString
+  loc_y_coordinate: 1.5
+  loc_x_coordinate: 1.5
+
+two:
+  id: 1
+  space_id: 1
+  description: MyString
+  loc_y_coordinate: 1.5
+  loc_x_coordinate: 1.5
